@@ -1,0 +1,1 @@
+A repository for all my small HDL (mostly VHDL, some Verilog) projects. RTL code is all synthesize-able and implementable on FPGAs and probably ASICs. Most modules include basic test-benches. Project discussion is located at http://inmcm.wordpress.com/
